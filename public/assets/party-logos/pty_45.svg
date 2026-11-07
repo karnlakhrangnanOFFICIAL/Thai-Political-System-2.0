@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <title>พรรคสามัคคีชายแดนใต้</title>
+  <rect width="200" height="200" rx="28" fill="#334155"/>
+  <rect x="8" y="8" width="184" height="184" rx="22" fill="none" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="2"/>
+  <polygon points="100,38 134,57 134,97 100,116 66,97 66,57" fill="#FFFFFF"/>
+  <text x="20" y="32" font-family="Sarabun, 'Noto Sans Thai', Tahoma, sans-serif" font-size="14" font-weight="700" fill="#FFFFFF" fill-opacity="0.8">45</text>
+  <rect x="14" y="136" width="172" height="46" rx="12" fill="#000000" fill-opacity="0.22"/>
+  <text x="100" y="167" text-anchor="middle" font-family="Sarabun, 'Noto Sans Thai', Tahoma, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF">สชต.</text>
+</svg>

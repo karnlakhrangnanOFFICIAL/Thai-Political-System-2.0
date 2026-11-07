@@ -1,0 +1,6 @@
+{
+  "name": "KKP Life Simulator – Thai Political System 2.0",
+  "description": "เกมกระดานและการ์ดกลยุทธ์ผลัดตา จำลองเส้นทางชีวิตและระบบการเมืองไทย 3 ชั้น (กฎหมาย รัฐสภา และการบริหารประเทศ) พร้อมเนื้อเรื่องที่เปลี่ยนตามการตัดสินใจ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
